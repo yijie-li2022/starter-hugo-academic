@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/yijie-li2022/yijie-li2022.github.io.git
+	branch = main
