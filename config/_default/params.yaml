@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Yijie Li. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -107,3 +107,4 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+

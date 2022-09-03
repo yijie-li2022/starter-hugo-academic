@@ -29,6 +29,10 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Extension
+      tag: Extension
+    - name: Reproduction
+      tag: Reproduction
     - name: Other
       tag: Demo
 
