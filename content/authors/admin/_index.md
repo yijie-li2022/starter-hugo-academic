@@ -70,4 +70,4 @@ highlight_name: true
 
 I am a undergraduate student in Beijing-Dublin Internation College (BDIC), BJUT, while I am major in software engineering. In the past three year, I have completed two paper as the first author and three papers as second author, two of which have been published recently. I am also developing a simple education-aimed deep learning system, TinyDL and a python-cuda extension for speeding up tensor operations.
 
-My research lies in developing and building computer vision models and algorithms for human face image synthsis, image attribute manipulation, image segmentation, salient object detection, and neural rendering.
+My research interest lies in developing and building computer vision models and algorithms for human face image synthsis, image attribute manipulation, image segmentation, salient object detection, and neural rendering.
