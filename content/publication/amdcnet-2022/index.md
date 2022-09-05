@@ -19,7 +19,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2022-05-25T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.displa.2022.102243'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-06T00:00:00Z'
