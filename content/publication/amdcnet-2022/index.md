@@ -50,7 +50,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'uploads/SCI-Elsevier-Displays-AMDCNet.pdf'
-url_code: ''
+url_code: 'https://github.com/WangHewei16/Attentional-Multi-Directional-Convolution-Network'
 url_dataset: ''
 url_poster: ''
 url_project: ''
