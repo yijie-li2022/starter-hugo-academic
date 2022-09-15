@@ -8,7 +8,7 @@ matching'
 authors:
   - Hewei Wang
   - admin
-  - Xishi Jia
+  - Shijia Xi
   - Shaofan Wang
   - Muhammad Salman Pathan
   - Soumyabrata Dev
