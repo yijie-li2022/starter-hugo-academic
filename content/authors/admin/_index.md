@@ -68,6 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a undergraduate student in Beijing-Dublin Internation College (BDIC), BJUT, while I am major in software engineering. In the past three year, I have completed two paper as the first author and three papers as second author, two of which have been published recently. I am also developing a simple education-aimed deep learning system, TinyDL and a python-cuda extension for speeding up tensor operations.
+I am a undergraduate student in Beijing-Dublin International College (BDIC), BJUT, while I am major in software engineering. In the past three year, I have completed two paper as the first author and three papers as second author, two of which have been published recently. I am also developing a simple education-aimed deep learning system, TinyDL and a python-cuda extension for speeding up tensor operations.
 
 My research interest lies in developing and building computer vision models and algorithms for human face image synthesis, image attribute manipulation, image segmentation, salient object detection, and other related areas.
