@@ -6,12 +6,12 @@ title: Yijie Li (李毅杰)
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student major in Software Engineering
+role: An Undergraduate Majoring in Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University College Dublin
-    url: https://www.ucd.ie/
+  - name: Beijing University Of Technology
+    url: https://www.bjut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision, artificial intelligence and image processing.
@@ -19,14 +19,14 @@ bio: My research interests include computer vision, artificial intelligence and 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Vision
+  - Computer Vision
   - Image Processing
 
 # Education to show in About widget
 education:
   courses:
     - course: BSc in Software Engineering
-      institution: University College Dublin
+      institution: Beijing University Of Technology
       year: 2023
 
 # Social/Academic Networking
@@ -68,6 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a undergraduate student in Beijing-Dublin International College (BDIC), BJUT, while I am major in software engineering. In the past three year, I have completed two paper as the first author and three papers as second author, two of which have been published recently. I am also developing a simple education-aimed deep learning system, TinyDL and a python-cuda extension for speeding up tensor operations.
+I am an undergraduate student at Beijing-Dublin International College (BDIC), BJUT, majoring in Software Engineering. In the past three years, I have completed two papers as the first author and three papers as a second author, two of which have been published recently. I have also developed a simple education-aimed deep learning system, TinyDL and a Python-cuda extension for speeding up tensor operations.
 
-My research interest lies in developing and building computer vision models and algorithms for human face image synthesis, image attribute manipulation, image segmentation, salient object detection, and other related areas.
+My research interests lie in developing and building computer vision models and algorithms for human face image synthesis, image attribute manipulation, image segmentation, salient object detection, and other related areas.
+

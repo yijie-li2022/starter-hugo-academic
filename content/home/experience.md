@@ -39,7 +39,7 @@ experience:
     date_start: '2021-05-01'
     date_end: '2022-01-10'
     description: |2-
-      Conduct researches in computer vision and machine learning
+      Conduct research on computer vision and machine learning
 
         * Ground-based cloud image analysis
         * Salient object detection
