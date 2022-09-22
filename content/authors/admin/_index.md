@@ -10,7 +10,7 @@ role: An Undergraduate Majoring in Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Beijing University Of Technology
+  - name: Beijing University of Technology
     url: https://www.bjut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: BSc in Software Engineering
-      institution: Beijing University Of Technology
+      institution: Beijing University of Technology
       year: 2023
 
 # Social/Academic Networking
