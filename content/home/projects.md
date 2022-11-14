@@ -34,7 +34,7 @@ content:
     - name: Reproduction
       tag: Reproduction
     - name: Other
-      tag: Demo
+      tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
