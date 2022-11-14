@@ -4,7 +4,7 @@ summary: PaddlePaddle Reproduction of paper Denoising Diffusion Probabilistic Mo
 tags:
   - Reproduction
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-9-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
