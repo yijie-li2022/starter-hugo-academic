@@ -3,7 +3,7 @@ title: Python CUDA extension
 summary: A python-cuda extension for tensor acceleration
 tags:
   - Extension
-date: '2022-11-24T00:00:00Z'
+date: '2022-11-13T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
