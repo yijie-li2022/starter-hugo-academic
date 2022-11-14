@@ -1,6 +1,6 @@
 ---
-title: DES Encryption Algorithm
-summary: DES Encryption Algorithm with PyQT GUI
+title: DES-secure Communciation
+summary: DES-secure Communciation with PyQT GUI
 tags:
   - Other
 date: '2022-11-14T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2022-11-14T00:00:00Z'
 external_link: ''
 
 image:
-  caption: DES Encryption Algorithm User Interface
+  caption: DES-secure Communciation User Interface
   focal_point: Smart
 
 links: []
@@ -17,7 +17,7 @@ links: []
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
-url_code: 'https://github.com/Att100/DES-Encryption-PyQT'
+url_code: 'https://github.com/Att100/DES-Secure-Communication-PyQT'
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -32,9 +32,9 @@ slides: ''
 
 ## Introduction
 
-This is a python implementation of DES encryption algorithms with PyQT GUI. 
+This is a python implementation of DES-secure Communication software with PyQT GUI. 
 
 ## Usage
 
-Download win64 executable file from [link](https://github.com/Att100/DES-Encryption-PyQT/releases) and follow the instruction in [link](https://github.com/Att100/DES-Encryption-PyQT/blob/main/doc/images.pptx)
+Download win64 executable file from [link]() and follow the instruction in [link]()
 
