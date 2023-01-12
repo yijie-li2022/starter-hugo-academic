@@ -18,11 +18,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-05-25T00:00:00Z'
+date: '2022-06-15T00:00:00Z'
 doi: 'http://dx.doi.org/10.1109/ICIP46576.2022.9897534'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-06-06T00:00:00Z'
+publishDate: '2022-10-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -50,7 +50,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'uploads/IEEE-ICIP pp.2701-2705.pdf'
-url_code: 'https://github.com/WangHewei16/Attentional-Multi-Directional-Convolution-Network'
+url_code: 'https://github.com/WangHewei16/SYGNet-for-Real-time-Driving-Scene-Parsing'
 url_dataset: ''
 url_poster: ''
 url_project: ''
