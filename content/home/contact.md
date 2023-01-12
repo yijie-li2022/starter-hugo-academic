@@ -26,12 +26,12 @@ content:
 
   # Contact details (edit or remove options as required)
   email: yijie.li2022@gmail.com
-  phone: +8618310230286
+  phone: '+86 18310230286'
   address:
     street: Ping Le Yuan
     city: Beijing
     region: Chaoyang
-    postcode: '100010'
+    postcode: '100124'
     country: China
     country_code: CN
   coordinates:
